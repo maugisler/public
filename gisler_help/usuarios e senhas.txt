@@ -1,0 +1,5 @@
+Usuarios e senhas:
+mauricio.gisler@teste.com.br senha:1234 privilegio de administrador
+admin@teste.com.br senha: 1234 privilegio de administrador
+visitante@teste.com.br senha: 1234 usuario comum
+user@teste.com.br senha: 1234 usuario comum
